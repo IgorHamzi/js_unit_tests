@@ -1,13 +1,24 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+## :information_source: JS Unit Tests
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+Projeto realizado para consolidar os conhecimento aprendidos em JavaScript e testes com Jest.
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+## :rocket: Tecnologias Utilizadas
+
+* JavaScript
+* Jest
+
+---
+
+## Habilidades desenvolvidas
+
+* Escrever testes unitários para funções utilizando Jest para verificar o correto funcionamento dessas funções;
+* A partir de testes já implementados, escrever funções de forma que elas atendam aos testes propostos;
+* Escrever testes e funções utilizando uma abordagem de desenvolvimento orientado a testes.
+
+---
+
+## :link: O que foi desenvolvido
+
+Foi desenvolvido várias funções para atender as regras de negócio propostas e testes unitários para garantir que as implementações das funções estão corretas.
+
+### Projeto realizado no módulo de fundamentos do Curso de Desenvolvimento WEB da TRYBE.
